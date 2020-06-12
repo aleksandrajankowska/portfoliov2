@@ -13,9 +13,9 @@
         <div id="text">
           <p>Come say hi.</p>
           <ul id="socials">
-            <li><a href="mailto:aleksandra.jankowska42@gmail.com"><img src="@/assets/mail.png"></a></li>
-            <li><a href="https://github.com/aleksandrajankowska" target="_blank"><img src="@/assets/github.png"></a></li>
-            <li><a href="https://www.linkedin.com/in/aleksandra-jankowska-28a3bb126/?locale=en_US" target="_blank"><img src="@/assets/linked.png"></a></li>
+            <li><a href="mailto:aleksandra.jankowska42@gmail.com"><img src="@/assets/mail.png" alt="Mail Me"></a></li>
+            <li><a href="https://github.com/aleksandrajankowska" target="_blank"><img src="@/assets/github.png" alt="Github"></a></li>
+            <li><a href="https://www.linkedin.com/in/aleksandra-jankowska-28a3bb126/?locale=en_US" target="_blank"><img src="@/assets/linked.png" alt="LinkedIn"></a></li>
           </ul>
         </div>
       </div>
