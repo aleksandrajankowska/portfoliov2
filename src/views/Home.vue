@@ -5,14 +5,14 @@
 
       <div class="row">
         <div class="column">
-          <router-link to="/project-frenzy"><img src="@/assets/display-photos/project-frenzy.png"></router-link>
+          <router-link to="/project-frenzy"><img src="@/assets/display-photos/project-frenzy.png" alt="Project Frenzy"></router-link>
           <div class="text">
             <router-link to="/project-frenzy"><h2 class="project-title">PROJECT<br>FRENZY</h2></router-link>
           </div>
         </div>
         
         <div class="column">
-          <router-link to="/taco-i-dawid"><img src="@/assets/display-photos/taco-i-dawid.png"></router-link>
+          <router-link to="/taco-i-dawid"><img src="@/assets/display-photos/taco-i-dawid.png" alt="Taco I Dawid"></router-link>
           <div class="text">
             <router-link to="/taco-i-dawid"><h2 class="project-title">TACO I<br>DAWID</h2></router-link>
           </div>
@@ -20,13 +20,13 @@
       </div>
       <div class="row">
         <div class="column">
-           <router-link to="/wybory-parlamentarne-2019"><img src="@/assets/display-photos/wybory.png"></router-link>
+           <router-link to="/wybory-parlamentarne-2019"><img src="@/assets/display-photos/wybory.png" alt="Wybory"></router-link>
            <div class="text">
             <router-link to="/wybory-parlamentarne-2019"><h2 class="project-title"><br>WYBORY</h2></router-link>
           </div>
         </div>
         <div class="column">
-          <router-link to="/nova"><img src="@/assets/display-photos/nova.png"></router-link>
+          <router-link to="/nova"><img src="@/assets/display-photos/nova.png" alt="Nova"></router-link>
           <div class="text">
             <router-link to="/nova"><h2 class="project-title"><br>NOVA</h2></router-link>
           </div>
@@ -34,13 +34,13 @@
       </div>
       <div class="row">
         <div class="column">
-          <router-link to="/dragon-aio"><img src="@/assets/display-photos/dragon.png"></router-link>
+          <router-link to="/dragon-aio"><img src="@/assets/display-photos/dragon.png" alt="Dragon"></router-link>
           <div class="text">
              <router-link to="/dragon-aio"><h2 class="project-title">DRAGON<br>AIO</h2></router-link>
           </div>
         </div>
         <div class="column">
-           <router-link to="/project-indsutries"><img src="@/assets/display-photos/project-industries.png"></router-link>
+           <router-link to="/project-indsutries"><img src="@/assets/display-photos/project-industries.png" alt="Project Indsutries"></router-link>
           <div class="text">
              <router-link to="/project-industries"><h2 class="project-title">PROJECT<br>INDUSTRIES</h2></router-link>
           </div>
