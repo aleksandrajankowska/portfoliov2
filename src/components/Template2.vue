@@ -1,16 +1,16 @@
 <template>
 <div id="container">
     <div class="template2">
+        <h1 class="project-name">{{currentRouteName}}</h1>
         <div rel="preload" class="landing">
             <div class="main-image"><img :src="projectimagemain"></div>
             <p class="project-description">{{projectdescription}}</p>
         </div>
-        <h1 class="project-name">{{currentRouteName}}</h1>
         <div class="project-documentation">
             <div class="placeholder"><img :src="image1"></div>
             <div class="placeholder" style="float: right"><img :src="image2"></div>
-            <div class="placeholder"><img :src="image3"></div>
             <div class="placeholder" style="float: right"><img :src="image4"></div>
+            <div class="placeholder"><img :src="image3"></div>
         </div>
     </div>
 </div>
@@ -63,6 +63,8 @@ export default{
 }
 .landing{
     display: flex;
+    z-index: -1;
+    margin-top: 4rem;
 }
 .main-image{
     width: 45%;
@@ -72,12 +74,13 @@ export default{
   -webkit-text-fill-color: transparent; /* Will override color (regardless of order) */
   -webkit-text-stroke-width: 1px;
   -webkit-text-stroke-color: #587485;
-  margin-top: -4rem;
-  margin-left: 2rem;
   font-size: 5rem;
   letter-spacing: 0.5rem;
   text-transform: uppercase;
-  
+  margin-top: -4rem;
+  margin-left: 2rem;
+  z-index: 50;
+  position: absolute;
 }
 .project-description{
     letter-spacing: 0.1rem;
@@ -90,6 +93,7 @@ export default{
     width: 100%;
     display: block;
     margin-top: 4rem;
+    /* margin-bottom: 4rem; */
 }
 
 .placeholder{
@@ -101,5 +105,54 @@ export default{
     width: 36rem;
     height: auto;
 }
+
+
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 812px) 
+  and (-webkit-min-device-pixel-ratio: 3)
+  and (orientation: portrait) { 
+
+      .landing{
+          display: block;
+      }
+
+      .project-name{
+          font-size: 2rem;
+          text-align: left;
+          line-height: 3.5rem;
+          margin-left: 0;
+          width: 100%;
+          margin-top: 1.5rem;
+          text-align: center;
+      }
+
+      .project-description{
+          margin-top: 2rem;
+          width: 100%;
+          margin-left: 0;
+          display: block;
+          font-size: 0.8rem;
+      }
+
+      .main-image{
+          display: block;
+          width: 100%;
+      }
+
+      .project-documentation{
+          display: block;
+      }
+
+      .placeholder{
+          margin-bottom: 2rem;
+      }
+
+}
+
+/* .placeholder:hover img{
+    transform: scale(2);
+} */
+
 
 </style>

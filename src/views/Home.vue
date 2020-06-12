@@ -108,10 +108,6 @@ export default {
   margin-block-end: 0;
 }
 
-.column:hover .text{
-  opacity: 1;
-}
-
 /* Create four equal columns */
 img{
   max-width: 100%;
@@ -120,7 +116,31 @@ img{
   /* outline: 1px solid #ACCCCF; */
 }
 
-.column:hover img{
-  opacity: 0.3;
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 812px) 
+  and (-webkit-min-device-pixel-ratio: 3)
+  and (orientation: portrait) { 
+
+    .row{
+      display: block;
+      margin-top: 0;
+    }
+
 }
+
+@media only screen and (min-width: 1370px)  { 
+
+  .column:hover .text{
+    opacity: 1;
+  }
+
+  .column:hover img{
+    opacity: 0.3;
+  }
+    
+
+}
+
+
 </style>

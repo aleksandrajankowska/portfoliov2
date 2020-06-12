@@ -1,8 +1,10 @@
 [
     {
         "projecttitle": "Project Frenzy",
-        "projectdescription": "The Project Frenzy website was designed as a landing page to showcase information about the software in an easy and seamless way. It is designed as one-page, with the navigation directing the user along the vertical axis of the page. The Login/Sign Up option allows the user to connect their Discord to the page, which gives them access to their license key, software updates and other relevant inormation",
-        "projectimagemain": "https://drive.google.com/uc?export=view&id=1zNUGROdx5ixUaAZ07Augmyr0yTjVNpiG"
+        "projectdescription": "The Project Frenzy website was designed as a landing page to showcase information about the software in an easy and seamless way. It is designed as one-page, with the navigation directing the user along the vertical axis of the page. The Login/Sign Up option allows the user to connect their Discord to the page, which gives them access to their license key, software updates and other relevant inormation.",
+        "projectimagemain": "https://drive.google.com/uc?export=view&id=1JDbCab5KsYqzY99gEdUjGiv0vtwF3KWO",
+        "image1":"https://drive.google.com/uc?export=view&id=1TeGa1Ial5rElPm3NBf_vW013MbZWBKVZ",
+        "image2":"https://drive.google.com/uc?export=view&id=1OHuBHR3MuVWqL0t1u6ocQj7dshTXIRMU"
     },
     {
         "projecttitle": "Taco i Dawid",
@@ -10,8 +12,8 @@
         "projectimagemain": "https://drive.google.com/uc?export=view&id=1HIy0lbzvvi6cHQE1g5zrsjuTY8GIrERT",
         "image1":"https://drive.google.com/uc?export=view&id=1xnES7oSNrPdvBDnptRyryCklr4xfgiR-",
         "image2":"https://drive.google.com/uc?export=view&id=1WF9vAk0vt7aVA8X7_IJSafuEPw4nawFo",
-        "image3":"https://drive.google.com/uc?export=view&id=1b0d6ZU46JmfchJUlgQJExPvSAuhWYK83",
-        "image4":"https://drive.google.com/uc?export=view&id=1s-yR5nBpShWdZDNPjnBM4cD2ycAPPZrF"
+        "image3":"https://drive.google.com/uc?export=view&id=1s-yR5nBpShWdZDNPjnBM4cD2ycAPPZrF",
+        "image4":"https://drive.google.com/uc?export=view&id=1b0d6ZU46JmfchJUlgQJExPvSAuhWYK83"
 
     },
     {
@@ -45,7 +47,10 @@
     {
         "projecttitle": "Project Industries",
         "projectdescription": "Project Industries was designed to host information about multiple different softwares. The idea behind the user experience was that the different softwares would be listed on the landing page, and each would have their own, separate page with information regarding that specific software. The dashboard would then host the users unique information based on which softwares they aquired.",
-        "projectimagemain": "https://drive.google.com/uc?export=view&id=1iZV_uHhwG5dbksByO6ye1Ug2_mjZZ7r3"
+        "projectimagemain": "https://drive.google.com/uc?export=view&id=14OlqeQSsjpKcmCJFplUXXq1rOo9W2qec",
+        "image1":"https://drive.google.com/uc?export=view&id=1ESqSQlE3C2JIK9Kq3EpAqkobxmxUS7aM",
+        "image2":"https://drive.google.com/uc?export=view&id=1wpz45hq8QhzkHDkpXYpLutu2FP-51a4l",
+        "image3":"https://drive.google.com/uc?export=view&id=16DzRCV58EhNQ4toj1Wjey061kLZPl5z1"
     }
 ]
 

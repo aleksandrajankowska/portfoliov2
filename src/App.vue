@@ -9,8 +9,9 @@
       </div>
       <router-view />
       <div id="footer">
-        <div id="line"></div>
         <div id="text">
+          <div id="line"></div>
+          <br>
           <p>Come say hi.</p>
           <ul id="socials">
             <li><a href="mailto:aleksandra.jankowska42@gmail.com"><img src="@/assets/mail.png" alt="Mail Me"></a></li>
@@ -71,21 +72,42 @@ html, body, ul{
     width: 100%;
     border-radius: 50%;
   }
-  #text{
-    padding-top: 2rem;
-    margin-bottom: 2rem;
-  }
   #socials{
     display: inline-block;
-    margin-top: -1rem;
   }
   #footer{
     display: block;
+    width: 100%;
+    height: 5rem;
+    position: relative;
   }
   #socials img{
     width: 2rem;
     height:auto;
     display: flex;
     /* outline: 2px solid red; */
+  }
+
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 812px) 
+  and (-webkit-min-device-pixel-ratio: 3)
+  and (orientation: portrait) { 
+  
+  #footer{
+  }
+
+  #socials li{
+    margin-left: 1rem;
+  }
+
+  #nav, #nav li, #nav ul, #nav p{
+    display: block;
+    text-align: center;
+    width: 100%;
+    margin-left: 0;
+    margin-bottom: 1rem;
+  }
+  
   }
 </style>
