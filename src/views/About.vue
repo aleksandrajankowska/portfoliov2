@@ -1,6 +1,6 @@
 <template>
 <div class="container">
-  <div class="about">
+  <div rel="preload" class="about">
     <img id="me" src="@/assets/ola.png" alt="Ola Picture">
     <p class="project-description">Hi, and welcome to my portfolio. My name is Aleksandra (or Ola) Jankowska and I'm a Front End Developer and a Digital Designer. I was born in Warsaw, Poland and am currently living in New York, USA. I graduated the Parsons School of Design with a degree in Design & Technology, as well as two minors; Communication Design and Creative Entrepreneurship. My designs aim to create a seamless yet entertaining experience for the user. I believe that the only way to grow is to learn.<br><br>Feel free to look through my resume <a href="https://drive.google.com/file/d/1J7ZdV4d-yAqAwIgddnXuTo8lLwMXUAI-/view?usp=sharing" target="_blank">here.</a></p>
   </div>

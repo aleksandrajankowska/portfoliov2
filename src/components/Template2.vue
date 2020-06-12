@@ -1,7 +1,7 @@
 <template>
 <div id="container">
     <div class="template2">
-        <div class="landing">
+        <div rel="preload" class="landing">
             <div class="main-image"><img :src="projectimagemain"></div>
             <p class="project-description">{{projectdescription}}</p>
         </div>

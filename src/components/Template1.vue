@@ -1,5 +1,5 @@
 <template>
-    <div class="template1">
+    <div rel="preload" class="template1">
         <div class="main-image"><img :src="projectimagemain"></div> <!-- <img src="@/assets/display-template.png"> -->
         <h1 class="project-name">{{currentRouteName}}</h1>
         <p class="project-description">{{projectdescription}}</p>

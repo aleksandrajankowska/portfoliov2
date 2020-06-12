@@ -1,7 +1,7 @@
 <template>
   <div class="container">
     <app-header></app-header>
-    <div class="home">
+    <div rel="preload" class="home">
 
       <div class="row">
         <div class="column">
