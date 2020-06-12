@@ -1,0 +1,51 @@
+[
+    {
+        "projecttitle": "Project Frenzy",
+        "projectdescription": "The Project Frenzy website was designed as a landing page to showcase information about the software in an easy and seamless way. It is designed as one-page, with the navigation directing the user along the vertical axis of the page. The Login/Sign Up option allows the user to connect their Discord to the page, which gives them access to their license key, software updates and other relevant inormation",
+        "projectimagemain": "https://drive.google.com/uc?export=view&id=1zNUGROdx5ixUaAZ07Augmyr0yTjVNpiG"
+    },
+    {
+        "projecttitle": "Taco i Dawid",
+        "projectdescription": "The 'Przerysowani' (roughly translated to Outlined) album cover was created for a contest sponsored by Spotify. The aim was to create a fictional album cover with the two artists collaborating on one album. I wanted to use line art and photography to create an interesting visual that matched the album name as well.",
+        "projectimagemain": "https://drive.google.com/uc?export=view&id=1HIy0lbzvvi6cHQE1g5zrsjuTY8GIrERT",
+        "image1":"https://drive.google.com/uc?export=view&id=1xnES7oSNrPdvBDnptRyryCklr4xfgiR-",
+        "image2":"https://drive.google.com/uc?export=view&id=1WF9vAk0vt7aVA8X7_IJSafuEPw4nawFo",
+        "image3":"https://drive.google.com/uc?export=view&id=1b0d6ZU46JmfchJUlgQJExPvSAuhWYK83",
+        "image4":"https://drive.google.com/uc?export=view&id=1s-yR5nBpShWdZDNPjnBM4cD2ycAPPZrF"
+
+    },
+    {
+        "projecttitle": "#wybory",
+        "projectdescription": "This poster was created for the 2019 sejm and senate elections in Poland. Elections in Poland hit particularly hard, as we have a strongly conservative government currently ruling. In the past years, less than half of the population of Poland would vote. This poster was meant to join into the campaign rallying young people and others to come out and vote in these particular elections.",
+        "projectimagemain": "https://drive.google.com/uc?export=view&id=1Sm1SNHuelG2AEbZz57Iyl1Nl_GkLmJZ7",
+        "image1": null,
+        "image2": null,
+        "image3": null,
+        "image4": null
+    },
+    {
+        "projecttitle": "Nova",
+        "projectdescription": "The Nova user interfacte was created for a UI contenst hosted by Nova AIO sneaker bot. The aim for the design was create appealing and interesting visuals while at the same time remaining easy to use and navigate. It uses predetermined brand colors to achieve an aesthetic that follows the brand guidelines.",
+        "projectimagemain": "https://drive.google.com/uc?export=view&id=1YrxcGIrrMh8OkClSPY2hIDsHcv2v1dhd",
+        "image1":"https://drive.google.com/uc?export=view&id=1C-j-JgZ29yoOEbn4GBvw7GqCqH97F876",
+        "image2":"https://drive.google.com/uc?export=view&id=1OLrg9LOKcJTARR17u4A9CBEP0zPnktyu",
+        "image3":"https://drive.google.com/uc?export=view&id=1jOiKEMQF0weFgiPuv29JibF1yX6BFrpO",
+        "image4":"https://drive.google.com/uc?export=view&id=1RAZDVeY8b5MWZSNR64wCUzh0mnznU4Qx"
+
+    },
+    {
+        "projecttitle": "Dragon AIO",
+        "projectdescription": "Dragon AIO is a user interface created for a sneaker bot. The design aims to create a seamless user experience, where the visuals appealing and easy to navigate.",
+        "projectimagemain": "https://drive.google.com/uc?export=view&id=1GwKRycWwDE12DUo9zLebkQPRXiy1JUZv",
+        "image1":"https://drive.google.com/uc?export=view&id=1MbhXwgglpbdqVSiaz5qraqW9vniyb0rz",
+        "image2":"https://drive.google.com/uc?export=view&id=1I_hCTTDksNKsj_7EVGDr48epcjhXjUQo",
+        "image3":"https://drive.google.com/uc?export=view&id=1picVYY8sLHs1knet2Qf7Uq_UbX7ZafaI",
+        "image4":"https://drive.google.com/uc?export=view&id=1_KBUPX1MDdhXzV-6fVFWcVL30tUaUFix"
+    },
+    {
+        "projecttitle": "Project Industries",
+        "projectdescription": "Project Industries was designed to host information about multiple different softwares. The idea behind the user experience was that the different softwares would be listed on the landing page, and each would have their own, separate page with information regarding that specific software. The dashboard would then host the users unique information based on which softwares they aquired.",
+        "projectimagemain": "https://drive.google.com/uc?export=view&id=1iZV_uHhwG5dbksByO6ye1Ug2_mjZZ7r3"
+    }
+]
+
